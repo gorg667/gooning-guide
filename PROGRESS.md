@@ -82,7 +82,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
        aging, relationships, long-distance, after illness/surgery, disability)
 17 [x] Diet, sleep, exercise, substances & sexual function (what matters,
        what doesn't, supplements skepticism)
-18 [ ] Culture, religion, history & stigma (brief scholarly overview)
+18 [x] Culture, religion, history & stigma (brief scholarly overview)
 19 [ ] Ethics, privacy & digital safety (consent-related content ethics,
        device/data hygiene, cam/sexting risks, legal notes)
 20 [ ] Practice programs: 4-week beginner, 8-week intermediate, ongoing
@@ -100,3 +100,4 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
 - 2026-09-09: Repo empty. Created PROGRESS.md, planned architecture & chapters.
 
 - Ch00-10 written & pushed. Ch10 was lost once to interruption and rewritten. NEXT: ch11 pleasure-maximization (user-emphasized), then 12..23, then build script + site.
+- Ch19 lost to interruption once, rewritten. Remaining: 20 ethics/privacy, 21 programs, 22 FAQ, 23 glossary, 24 references, then build.py + site.
