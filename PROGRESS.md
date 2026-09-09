@@ -87,7 +87,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
        device/data hygiene, cam/sexting risks, legal notes)
 20 [x] Practice programs: 4-week beginner, 8-week intermediate, ongoing
        advanced routines; journaling templates
-21 [ ] FAQ (100+ questions)
+21 [x] FAQ (100+ questions)
 22 [ ] Glossary
 23 [ ] References & further reading (books, studies, orgs, hotlines)
 
