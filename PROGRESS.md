@@ -71,7 +71,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
        arousal, breathwork approaches — evidence-rated
 12 [x] Toys & devices (sleeves/strokers, rings, prostate massagers, vibrators,
        automated devices, materials safety, cleaning, storage, buying guide)
-13 [ ] Fantasy, erotica & pornography: healthy use, habituation/tolerance,
+13 [x] Fantasy, erotica & pornography: healthy use, habituation/tolerance,
        "porn-induced ED" debate, the evidence both ways, practical guidelines
 14 [ ] Compulsivity, "gooning", frequency & when it's a problem (CSBD ICD-11,
        self-assessment, moderation strategies, seeking help)
