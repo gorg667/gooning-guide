@@ -80,7 +80,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
        orgasmic illness syndrome, retrograde ejaculation)
 16 [x] Masturbation across life stages & circumstances (adolescence-adult,
        aging, relationships, long-distance, after illness/surgery, disability)
-17 [ ] Diet, sleep, exercise, substances & sexual function (what matters,
+17 [x] Diet, sleep, exercise, substances & sexual function (what matters,
        what doesn't, supplements skepticism)
 18 [ ] Culture, religion, history & stigma (brief scholarly overview)
 19 [ ] Ethics, privacy & digital safety (consent-related content ethics,
