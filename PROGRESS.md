@@ -78,7 +78,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
 15 [x] Common problems & troubleshooting (delayed ejaculation, death grip
        syndrome, PE, ED, loss of sensitivity, pain, blood in semen, post-
        orgasmic illness syndrome, retrograde ejaculation)
-16 [ ] Masturbation across life stages & circumstances (adolescence-adult,
+16 [x] Masturbation across life stages & circumstances (adolescence-adult,
        aging, relationships, long-distance, after illness/surgery, disability)
 17 [ ] Diet, sleep, exercise, substances & sexual function (what matters,
        what doesn't, supplements skepticism)
