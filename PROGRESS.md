@@ -66,7 +66,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
        factors (build-up duration, pelvic floor state, edging count,
        prostate involvement, abstinence duration), "orgasm quality
        journaling", sessions design (short/medium/long), afterglow.
-11 [ ] Advanced sensations: non-ejaculatory & multiple orgasms, prostate
+11 [x] Advanced sensations: non-ejaculatory & multiple orgasms, prostate
        stimulation (external & internal), perineum, nipples, full-body
        arousal, breathwork approaches — evidence-rated
 12 [ ] Toys & devices (sleeves/strokers, rings, prostate massagers, vibrators,
