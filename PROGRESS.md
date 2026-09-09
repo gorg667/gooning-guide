@@ -85,7 +85,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
 18 [x] Culture, religion, history & stigma (brief scholarly overview)
 19 [x] Ethics, privacy & digital safety (consent-related content ethics,
        device/data hygiene, cam/sexting risks, legal notes)
-20 [ ] Practice programs: 4-week beginner, 8-week intermediate, ongoing
+20 [x] Practice programs: 4-week beginner, 8-week intermediate, ongoing
        advanced routines; journaling templates
 21 [ ] FAQ (100+ questions)
 22 [ ] Glossary
