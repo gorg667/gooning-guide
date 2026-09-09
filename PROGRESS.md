@@ -57,7 +57,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
        PC muscle role, implications for PE)
 10 [x] Pelvic floor / Kegels / reverse Kegels for men (evidence, routine,
        overtraining, hypertonic pelvic floor)
-10b[ ] PLEASURE MAXIMIZATION (user explicitly requested): the science of
+10b[x] PLEASURE MAXIMIZATION (user explicitly requested): the science of
        pleasure (dopamine/anticipation vs opioid/consummation), the arousal
        "stack" model, novelty & habituation, sensory layering (touch, temp,
        sound, scent, visual), anticipation/denial/teasing, varying speed &
