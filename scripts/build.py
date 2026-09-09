@@ -193,6 +193,8 @@ def build_site(chapters):
     )
     with open(os.path.join(SITE, "index.html"), "w", encoding="utf-8") as fh:
         fh.write(index)
+    # copy the single-file guide into the site for download
+    shutil.copy(os.path.join(ROOT, "GUIDE.md"), os.path.join(SITE, "GUIDE.md"))
     # .nojekyll for GitHub Pages
     open(os.path.join(SITE, ".nojekyll"), "w").close()
 
