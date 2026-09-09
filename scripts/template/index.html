@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="rating" content="adult">
+<title>{{SITE_TITLE}}</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="home">
+<div id="agegate" class="agegate" hidden>
+  <div class="agegate-box">
+    <h2>Adults only</h2>
+    <p>This site contains frank educational content about male sexual health and sexuality. You must be 18 or older (or the age of majority where you live) to continue.</p>
+    <div class="agegate-actions">
+      <button id="age-yes" class="btn primary">I am 18 or older — enter</button>
+      <a class="btn" href="https://www.google.com">Leave</a>
+    </div>
+  </div>
+</div>
+
+<header class="topbar">
+  <button id="menu-btn" class="icon-btn" aria-label="Menu">☰</button>
+  <a class="brand" href="index.html">{{SITE_TITLE}}</a>
+  <div class="topbar-right">
+    <input id="search" type="search" placeholder="Search the guide…" autocomplete="off" aria-label="Search">
+    <button id="theme-btn" class="icon-btn" aria-label="Toggle theme">◐</button>
+  </div>
+  <div id="search-results" class="search-results" hidden></div>
+</header>
+
+<div class="layout">
+  <nav id="sidebar" class="sidebar">
+    <ul class="chapters">
+      {{NAV}}
+    </ul>
+  </nav>
+
+  <main class="content">
+    <section class="hero">
+      <div class="hero-badge">18+ · Evidence-informed · Non-judgmental</div>
+      <h1>{{SITE_TITLE}}</h1>
+      <p class="tagline">{{TAGLINE}}</p>
+      <p class="hero-sub">{{NCHAPTERS}} chapters · {{WORDS}} words · anatomy, physiology, technique, pleasure, health, safety, psychology, and practice programs — everything a man needs to turn a reflex into a skill.</p>
+      <div class="hero-actions">
+        <a class="btn primary" href="{{FIRST}}">Start reading</a>
+        <a class="btn" href="../GUIDE.md" download>Download as Markdown</a>
+      </div>
+      <div class="legend">
+        <span><span class="ev ev-strong">🟢</span> Strong evidence</span>
+        <span><span class="ev ev-mod">🟡</span> Moderate</span>
+        <span><span class="ev ev-weak">🟠</span> Weak / anecdotal</span>
+        <span><span class="ev ev-contra">🔴</span> Contradicted</span>
+      </div>
+    </section>
+
+    <section class="paths">
+      <h2>Where to start</h2>
+      <div class="path-grid">
+        <div class="path"><h3>Beginner</h3><p>Chapters 1–8 in order, then the 4-week foundation program in Chapter 21.</p></div>
+        <div class="path"><h3>More pleasure</h3><p>Chapters 9–13: edging, pelvic floor, pleasure maximization, advanced sensations, toys.</p></div>
+        <div class="path"><h3>Something's wrong</h3><p>Chapters 15 and 16 first — compulsivity, and troubleshooting every common problem.</p></div>
+        <div class="path"><h3>Just the facts</h3><p>Chapter 4 (what science says), 14 (pornography), 22 (FAQ), 24 (references).</p></div>
+      </div>
+    </section>
+
+    <section class="chapters-grid">
+      <h2>Chapters</h2>
+      <div class="cards">
+        {{CARDS}}
+      </div>
+    </section>
+
+    <footer class="foot">
+      <p>Educational content for adults. Not medical advice. If you have pain, persistent dysfunction, or distress about your sexual behaviour, consult a clinician or certified sex therapist.</p>
+    </footer>
+  </main>
+</div>
+
+<button id="totop" class="totop" aria-label="Back to top">↑</button>
+<script src="app.js"></script>
+</body>
+</html>
