@@ -75,7 +75,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
        "porn-induced ED" debate, the evidence both ways, practical guidelines
 14 [x] Compulsivity, "gooning", frequency & when it's a problem (CSBD ICD-11,
        self-assessment, moderation strategies, seeking help)
-15 [ ] Common problems & troubleshooting (delayed ejaculation, death grip
+15 [x] Common problems & troubleshooting (delayed ejaculation, death grip
        syndrome, PE, ED, loss of sensitivity, pain, blood in semen, post-
        orgasmic illness syndrome, retrograde ejaculation)
 16 [ ] Masturbation across life stages & circumstances (adolescence-adult,
