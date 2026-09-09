@@ -83,7 +83,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
 17 [x] Diet, sleep, exercise, substances & sexual function (what matters,
        what doesn't, supplements skepticism)
 18 [x] Culture, religion, history & stigma (brief scholarly overview)
-19 [ ] Ethics, privacy & digital safety (consent-related content ethics,
+19 [x] Ethics, privacy & digital safety (consent-related content ethics,
        device/data hygiene, cam/sexting risks, legal notes)
 20 [ ] Practice programs: 4-week beginner, 8-week intermediate, ongoing
        advanced routines; journaling templates
