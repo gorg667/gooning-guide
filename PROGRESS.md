@@ -88,7 +88,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
 20 [x] Practice programs: 4-week beginner, 8-week intermediate, ongoing
        advanced routines; journaling templates
 21 [x] FAQ (100+ questions)
-22 [ ] Glossary
+22 [x] Glossary
 23 [ ] References & further reading (books, studies, orgs, hotlines)
 
 ## Build/site status
