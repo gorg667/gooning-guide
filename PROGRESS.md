@@ -89,7 +89,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
        advanced routines; journaling templates
 21 [x] FAQ (100+ questions)
 22 [x] Glossary
-23 [ ] References & further reading (books, studies, orgs, hotlines)
+23 [x] References & further reading (books, studies, orgs, hotlines)
 
 ## Build/site status
 - [ ] scripts/build.py
@@ -101,3 +101,4 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
 
 - Ch00-10 written & pushed. Ch10 was lost once to interruption and rewritten. NEXT: ch11 pleasure-maximization (user-emphasized), then 12..23, then build script + site.
 - Ch19 lost to interruption once, rewritten. Remaining: 20 ethics/privacy, 21 programs, 22 FAQ, 23 glossary, 24 references, then build.py + site.
+- ALL 25 chapter files (00-24) done. NEXT: scripts/build.py -> GUIDE.md + site/, README.md, then preview & verify.
