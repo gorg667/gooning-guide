@@ -92,9 +92,9 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
 23 [x] References & further reading (books, studies, orgs, hotlines)
 
 ## Build/site status
-- [ ] scripts/build.py
-- [ ] site/ CSS/JS template
-- [ ] README.md
+- [x] scripts/build.py
+- [x] site/ CSS/JS template
+- [x] README.md
 
 ## Log (append newest at bottom)
 - 2026-09-09: Repo empty. Created PROGRESS.md, planned architecture & chapters.
@@ -102,3 +102,6 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
 - Ch00-10 written & pushed. Ch10 was lost once to interruption and rewritten. NEXT: ch11 pleasure-maximization (user-emphasized), then 12..23, then build script + site.
 - Ch19 lost to interruption once, rewritten. Remaining: 20 ethics/privacy, 21 programs, 22 FAQ, 23 glossary, 24 references, then build.py + site.
 - ALL 25 chapter files (00-24) done. NEXT: scripts/build.py -> GUIDE.md + site/, README.md, then preview & verify.
+- Build + site + README done and pushed. GitHub Pages workflow could NOT be pushed (token lacks workflows scope) -> stored at docs/deploy/github-pages-workflow.yml; user enables Pages from /site folder manually.
+- Preview server: python3 -m http.server -d site 8080 (may need restart after sandbox switch).
+- Playwright verified: home, chapter page render fine. Remaining optional polish: visual check of takeaways box + mobile; content copy-edit pass; possibly add more FAQ items.
