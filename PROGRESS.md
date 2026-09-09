@@ -69,7 +69,7 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
 11 [x] Advanced sensations: non-ejaculatory & multiple orgasms, prostate
        stimulation (external & internal), perineum, nipples, full-body
        arousal, breathwork approaches — evidence-rated
-12 [ ] Toys & devices (sleeves/strokers, rings, prostate massagers, vibrators,
+12 [x] Toys & devices (sleeves/strokers, rings, prostate massagers, vibrators,
        automated devices, materials safety, cleaning, storage, buying guide)
 13 [ ] Fantasy, erotica & pornography: healthy use, habituation/tolerance,
        "porn-induced ED" debate, the evidence both ways, practical guidelines
