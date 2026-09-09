@@ -105,3 +105,6 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
 - Build + site + README done and pushed. GitHub Pages workflow could NOT be pushed (token lacks workflows scope) -> stored at docs/deploy/github-pages-workflow.yml; user enables Pages from /site folder manually.
 - Preview server: python3 -m http.server -d site 8080 (may need restart after sandbox switch).
 - Playwright verified: home, chapter page render fine. Remaining optional polish: visual check of takeaways box + mobile; content copy-edit pass; possibly add more FAQ items.
+- 2026-09-09 (later): Visual QA done via Playwright — home, chapter, takeaways callout, TOC, pager, mobile all render correctly. Zero broken internal links; 200 search-index sections.
+- STATUS: DELIVERABLES COMPLETE. GUIDE.md (61k words) + site/ (25 pages) both on main.
+- Possible future polish (optional): copy-edit pass, more FAQ, per-chapter "further reading", print stylesheet, PDF export.
