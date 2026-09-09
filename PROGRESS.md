@@ -37,25 +37,25 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
   orgs). Cite conservatively; where evidence is weak, say so.
 
 ## Chapter plan (status: [ ] todo, [~] in progress, [x] done)
-00 [ ] Front matter / how to use this guide / disclaimer
-01 [ ] Introduction: why a guide, philosophy of "mastery", myths vs reality
-02 [ ] Anatomy of the male sexual system (penis, glans, frenulum, foreskin,
+00 [x] Front matter / how to use this guide / disclaimer
+01 [x] Introduction: why a guide, philosophy of "mastery", myths vs reality
+02 [x] Anatomy of the male sexual system (penis, glans, frenulum, foreskin,
        corona, scrotum/testes, perineum, prostate, pelvic floor, nerves)
-03 [ ] Physiology of arousal, erection, ejaculation & orgasm (sexual response
+03 [x] Physiology of arousal, erection, ejaculation & orgasm (sexual response
        cycle, neurochemistry, refractory period, ejaculation vs orgasm)
-04 [ ] Health effects: what the science actually says (benefits, non-effects,
+04 [x] Health effects: what the science actually says (benefits, non-effects,
        risks, prostate research, testosterone myths, frequency)
-05 [ ] Hygiene, skin care & injury prevention (friction, chafing, death grip,
+05 [x] Hygiene, skin care & injury prevention (friction, chafing, death grip,
        foreskin care, penile fracture, Peyronie's awareness)
-06 [ ] Fundamentals of technique (grips, strokes, pressure, speed, hand
+06 [x] Fundamentals of technique (grips, strokes, pressure, speed, hand
        positions, dry vs lubricated, circumcised vs uncircumcised differences)
-07 [ ] Lubricants: deep dive (water/silicone/oil/hybrid, ingredients to avoid,
+07 [x] Lubricants: deep dive (water/silicone/oil/hybrid, ingredients to avoid,
        compatibility with toys/condoms, DIY cautions)
-08 [ ] Setting, mindset & mindfulness (environment, privacy, breathing,
+08 [x] Setting, mindset & mindfulness (environment, privacy, breathing,
        body-awareness, sensate focus applied to solo)
-09 [ ] Edging, stamina & arousal control (arousal scale, stop-start, squeeze,
+09 [x] Edging, stamina & arousal control (arousal scale, stop-start, squeeze,
        PC muscle role, implications for PE)
-10 [ ] Pelvic floor / Kegels / reverse Kegels for men (evidence, routine,
+10 [x] Pelvic floor / Kegels / reverse Kegels for men (evidence, routine,
        overtraining, hypertonic pelvic floor)
 10b[ ] PLEASURE MAXIMIZATION (user explicitly requested): the science of
        pleasure (dopamine/anticipation vs opioid/consummation), the arousal
@@ -98,3 +98,5 @@ non-pornographic (no explicit erotica, no minors, no illegal content).
 
 ## Log (append newest at bottom)
 - 2026-09-09: Repo empty. Created PROGRESS.md, planned architecture & chapters.
+
+- Ch00-10 written & pushed. Ch10 was lost once to interruption and rewritten. NEXT: ch11 pleasure-maximization (user-emphasized), then 12..23, then build script + site.
